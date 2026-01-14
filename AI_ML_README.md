@@ -41,7 +41,7 @@ continuously improve my technical skills.
 
 ## 👨‍💻 Author
 
-**Shaik Ansar**  
+**Karthika Ravelli**  
 B.Tech – Computer Science  
 
 ---
